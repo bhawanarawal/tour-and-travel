@@ -130,7 +130,7 @@
 
       </div>
     </div>
-    <div class="credit">created by <span>bhawana rawal</span>|all rights reserved !</div>
+    <div class="credit">created by <span>bhawana rawal</span>!</div>
   </section>
 
 
