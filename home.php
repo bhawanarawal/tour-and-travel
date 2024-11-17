@@ -15,7 +15,7 @@
 <body>
 
   <section class="header">
-    <a href="home.php" class="logo">Travel </a>
+    <a href="home.php"> <i class='fas fa-plane-departure' style='font-size:20px;color:blue'></i>Travel </a>
     <nav class="navbar">
       <a href="home.php">home</a>
       <a href="about.php">about</a>
@@ -204,6 +204,7 @@
 
   <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
   <script src="script.js"></script>
+  <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
 </body>
 
 </html>

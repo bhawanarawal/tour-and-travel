@@ -14,7 +14,7 @@
 <body>
 
   <section class="header">
-    <a href="home.php" class="logo">Travel </a>
+    <a href="home.php"><i class='fas fa-plane-departure' style='font-size:20px;color:blue'></i>Travel </a>
     <nav class="navbar">
       <a href="home.php">home</a>
       <a href="about.php">about</a>

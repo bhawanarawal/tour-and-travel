@@ -111,7 +111,7 @@ section {
     justify-content: space-between;
 }
 
-.header .logo {
+.header a {
     font-size: 2.5rem;
     color: var(--black);
 }
